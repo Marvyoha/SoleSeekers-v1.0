@@ -43,8 +43,8 @@ Additional capabilities
 
 ## Application View
 <img src="https://github.com/user-attachments/assets/484535f8-9e25-4ae3-915c-bdfa23ff2b06" alt="On boarding" width="300"/>
-<img src="https://github.com/user-attachments/assets/18fbd978-41f4-40a4-a165-ed2d2c065d4a" alt="Home Screen" width="300"/>
-<img src="https://github.com/user-attachments/assets/dd2da9c3-9f1a-4028-a025-0baa63bd26b8" alt="Home Screen" width="300"/>
+<img src="https://github.com/user-attachments/assets/18fbd978-41f4-40a4-a165-ed4d2c065d4a" alt="Home Screen" width="200"/>
+<img src="https://github.com/user-attachments/assets/dd2da9c3-9f1a-4028-a025-0baa63bd26b8" alt="Home Screen" width="200"/>
 
 ## Target Audience
 Sole Seekers caters to a broad audience of footwear enthusiasts, ranging from casual collectors to hardcore sneakerheads. The intuitive interface and diverse product offerings cater to various preferences, making it a one-stop shop for all your shoe needs.
